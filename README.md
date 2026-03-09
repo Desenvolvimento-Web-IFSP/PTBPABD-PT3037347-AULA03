@@ -1,5 +1,8 @@
 # PTBPABD-PT3037347-AULA03
 Atividade Aula 03
+
+
+
 1)
 <img width="579" height="547" alt="image" src="https://github.com/user-attachments/assets/8a7196e6-359c-41d6-be33-d1991894479a" />
 
