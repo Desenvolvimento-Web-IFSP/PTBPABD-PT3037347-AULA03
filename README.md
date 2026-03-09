@@ -80,4 +80,3 @@ SELECT COUNT(*) FROM dbo.time_slot;
 
 
 
-
